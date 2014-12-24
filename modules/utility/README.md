@@ -81,9 +81,8 @@ Aliases
 
   - `ls` lists with directories grouped first (GNU only).
   - `l`  lists in one column, hidden files.
-  - `ll` lists human readable sizes.
+  - `ll` lists human readable sizes, hidden files.
   - `lr` lists human readable sizes, recursively.
-  - `la` lists human readable sizes, hidden files.
   - `lm` lists human readable sizes, hidden files through pager.
   - `lx` lists sorted by extension (GNU only).
   - `lk` lists sorted by size, largest last.
